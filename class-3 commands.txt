@@ -1,0 +1,168 @@
+TYPE OF THE FILE: 
+-	:	REGULAR FILE
+d	:	DIRECTORY
+c	:	CHARACTER FILE
+b	:	BLOCKED FILE
+========================================
+PERMISSIONS:
+
+r	:	read	:	4
+w	:	write	:	2
+x	:	execute	1
+-	:	nothing 	0
+
+USER	:	rw-	: 4+2+0=6
+GROUP	:	r--	: 4+0+0=4
+OTHERS:	r--	: 4+0+0=4
+------------------------------------
+			644
+-------------------------------------
+=====================================
+ACL:	Access Control List
+
+1 	:	file
+2	:	folder
+=====================================
+OWNERS: 
+
+user	:	root 
+group	:	root 
+===================================
+DATA IN A FILE (NO OF CHARACTERS IN A FILE INCLUDING SPACES)
+126 
+===============================
+FILE CREATION DETAILS
+
+Sep 19 14:01 
+=================================
+FILE NAME:
+aws
+=======================
+TODAYS COMMANDS:
+
+    1  touch aws azure gcp
+    2  ll
+    3  hostname -i
+    4  ll
+    5  mkdir folder1
+    6  ll
+    7  cat aws
+    8  cat>aws
+    9  cat aws
+   10  cat>>aws
+   11  clear
+   12  cat aws
+   13  cat>>aws
+   14  cat aws
+   15  ll
+   16  cp aws azure
+   17  cat aws
+   18  cat azure
+   19  cp azure python
+   20  ll
+   21  cp python java
+   22  ll
+   23  cat java
+   24  mv python tcs
+   25  ll
+   26  mv java infosys
+   27  ll
+   28  cd folder1/
+   29  ll
+   30  cd ~
+   31  ll
+   32  cp aws folder1
+   33  ll
+   34  cd folder1/
+   35  ll
+   36  mkdir folder2
+   37  ll
+   38  mv aws folder2
+   39  ll
+   40  cd folder2/
+   41  ll
+   42  mkdir folder3
+   43  ll
+   44  cd folder3/
+   45  mkdir folder4
+   46  cd folder4/
+   47  ll
+   48  pwd
+   49  cd ~
+   50  cd -
+   51  cd ..
+   52  cd ~
+   53  ll
+   54  mkdir folder1/frontlinesmedia
+   55  ll
+   56  cd folder1/
+   57  ll
+   58  cd ~
+   59  ls folder1/
+   60  ls folder1/folder2/
+   61  cd folder1/folder2/folder3/
+   62  ll
+   63  cd ~
+   64  ls folder1/folder2/folder3/
+   65  ll
+   66  LL
+   67  ll
+   68  cat aws
+   69  head aws
+   70  cat>>aws
+   71  cat aws
+   72  head aws
+   73  tail aws
+   74  sed -n '10,20p' aws
+   75  sed -n '5,13p' aws
+   76  ll
+   77  cat aws
+   78  gpg -c aws
+   79  ll
+   80  cat aws.gpg
+   81  cat aws
+   82  ll
+   83  gpg -c azure
+   84  ll
+   85  cat azure.gpg
+   86  gpg -d azure.gpg
+   87  ll
+   88  cat azure.gpg
+   89  ll
+   90  rm -rf folder1
+   91  ll
+   92  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
